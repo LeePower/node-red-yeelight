@@ -1,0 +1,29 @@
+{
+    "name"          : "yeelight",
+    "version"       : "0.2.0",
+    "description"   : "A Node-RED node that uses Noble to interact with yeelight",
+    "dependencies"  : {
+        "noble": ">=0.2.7"
+    },
+    "repository" : {
+        "type":"git",
+        "url":"https://github.com/"
+    },
+    "license": "Apache",
+    "keywords": [ "node-red", "noble", "ble", "bluetooth", "yeelight" ],
+    "node-red"      : {
+        "nodes"     : {
+            "noble": "noble/yeelight.js"
+        }
+    },
+    "author": {
+        "name": "Carlos Pedrinaci",
+        "email": "carlos.pedrinaci@open.ac.uk",
+        "url": "http://www.cpedrinaci.net"
+    },
+    "author": {
+        "name": "Charalampos Doukas",
+        "email": "charalampos.doukas@create-net.org",
+        "url": "http://blog.buildinginternetofthings.com"
+    }
+}
