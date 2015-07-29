@@ -1,6 +1,6 @@
-# BLE Node for NodeRed
+# Yeelight Node for NodeRed
 
-This is a node for [NodeRed](http://nodered.org) a tool for easily wiring together hardware devices, APIs and online services. This node provides a support for interacting with Bluetooth Low Energy (BLE) devices.
+This is a node for [NodeRed](http://nodered.org) a tool for easily wiring together hardware devices, APIs and online services. This node provides a support for interacting with Yeelight BLE smart bulbs.
 To this end this node relies on the [noble](https://github.com/sandeepmistry/noble) Node.js library.
 
 This node is a based on the [initial scan BLE node](http://blog.buildinginternetofthings.com/2013/10/12/using-node-red-to-scan-for-ble-devices/) by Charalampos Doukas.
