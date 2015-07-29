@@ -1,6 +1,6 @@
 {
     "name"          : "yeelight",
-    "version"       : "0.2.0",
+    "version"       : "0.1.0",
     "description"   : "A Node-RED node that uses Noble to interact with yeelight",
     "dependencies"  : {
         "noble": ">=0.2.7"
@@ -17,13 +17,13 @@
         }
     },
     "author": {
-        "name": "Carlos Pedrinaci",
-        "email": "carlos.pedrinaci@open.ac.uk",
-        "url": "http://www.cpedrinaci.net"
+        "name": "Lee",
+        "email": "che.lee@infopowercorp.com",
+        "url": "http://www.infopowercorp.com"
     },
     "author": {
-        "name": "Charalampos Doukas",
-        "email": "charalampos.doukas@create-net.org",
-        "url": "http://blog.buildinginternetofthings.com"
+        "name": "Lee",
+        "email": "che.lee@infopowercorp.com",
+        "url": "http://www.infopowercorp.com"
     }
 }
